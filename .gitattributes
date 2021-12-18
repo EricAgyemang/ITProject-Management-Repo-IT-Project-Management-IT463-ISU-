@@ -23,9 +23,6 @@
 # Jupyter notebook
 *.ipynb  text
 
-
-
-* text=auto
 *.py linguist-detectable=true
 *.csharp linguist-detectable=false  
 *.java linguist-detectable=false  
