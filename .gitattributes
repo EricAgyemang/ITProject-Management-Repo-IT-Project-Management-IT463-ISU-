@@ -1,3 +1,4 @@
+* text=auto
 *.r linguist-detectable=true
 *.csharp linguist-detectable=false  
 *.java linguist-detectable=false  
