@@ -1,5 +1,5 @@
 # ITProject-Management-Repo
-This project is started in request to the City of Mequon seeking assistance in developing the IT strategic plan. IT Project Management (IT463, ISU)
+This project is started in request to the City of Mequon seeking assistance in developing the IT strategic plan. 
 
 # PROJECT DESCRIPTION:
 The City of Mequon, WI, is the largest city in Ozaukee County and the third largest city in land
