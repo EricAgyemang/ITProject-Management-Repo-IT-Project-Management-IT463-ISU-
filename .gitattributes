@@ -23,7 +23,7 @@
 # Jupyter notebook
 *.ipynb  text
 
-*.pyi linguist-detectable=true
+*.pyw linguist-detectable=true
 *.csharp linguist-detectable=false  
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
