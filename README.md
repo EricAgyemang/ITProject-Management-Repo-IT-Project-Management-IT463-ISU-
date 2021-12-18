@@ -20,6 +20,13 @@ the project over budget and over schedule. The project WBS has been revised to m
 the project is back within the schedule and the revised budget. A quality management plan is being
 proposed to ensure the quality of the project and the MOV is being achieved.
 
+# PROJECT DELIVERABLES
+  0) Team Charter
+  1) Business Case & Project Charter
+  2) Scope Management Plan and Project Schedule/Budget
+  3) Risk Management Plan and Earned Value Analysis (EVA)
+  4) Project Quality Management Plan and Conversion Strategy
+
 # MEASURABLE ORGANIZATIONAL VALUE (MOV):
 The City of Mequon is striving to improve and maintain the current IT technologies used by the
 city. The project will focus upon creating a cost-effective plan with the highest benefits. 
